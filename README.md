@@ -12,7 +12,11 @@ After wrangling there are 26005 loans in data set.
 
 ## Finding:
 •	ProsperRating is an ordinal categorical variable with the following values from higher to lower ('AA', 'A', 'B', 'C', 'D', 'E', 'HR'), ratings have almost normal distribution in data set centered at 'C' the highest 'AA' and the lowest 'HR' ratings have the least occurrences.
+
 •	Individuals with employment status 'employed' are more likely to have the maximum credit and completed one. while, others not. as noticed part time do not have any deafult loan and retired are the minimum
+
 •	AAA prosper rating has the maximum borrowed amount in all three loan staus. Then comes HR as the lowest one
+
 •	Loan category zero proved to be riskier than others. It needs more deep overview
+
 •	Individuals with high rating tend to have higher monthly income.
